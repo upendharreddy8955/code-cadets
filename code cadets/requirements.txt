@@ -1,0 +1,6 @@
+fastapi
+streamlit
+requests
+pandas
+numpy
+python-dotenv
